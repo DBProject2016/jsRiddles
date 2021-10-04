@@ -1,3 +1,4 @@
+//Find The Symmetric Difference Challange
 function appearsIn(item,arr)
 {
   for(var k=0; k<arr.length; k++)
